@@ -18,7 +18,8 @@ namespace SistemaControle.Models
         [Index("GrupoDescricaoIndex", IsUnique = true)]
         public string Descricao { get; set; }
 
-        public int UserId { get; set; }
+        public int UserId 
+        { get; set; }
 
         [JsonIgnore]
         public virtual Usuario Professor { get; set; }
