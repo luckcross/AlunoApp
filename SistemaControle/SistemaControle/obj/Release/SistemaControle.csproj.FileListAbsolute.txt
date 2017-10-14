@@ -1,0 +1,249 @@
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\ApplicationInsights.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.exe
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.exe.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.rsp
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.exe
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.exe.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.rsp
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.AppContext.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Collections.Immutable.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Console.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.Process.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.Compression.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.Pipes.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Reflection.Metadata.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.AccessControl.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Claims.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Threading.Thread.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.ValueTuple.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XPath.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.exe
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.exe.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.rsp
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.dll.config
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.pdb
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Antlr3.Runtime.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.DependencyCollector.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Web.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.WindowsServer.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.ApplicationInsights.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Web.Infrastructure.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Newtonsoft.Json.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Owin.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Helpers.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Mvc.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Optimization.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Razor.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\WebGrease.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Helpers.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Mvc.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Optimization.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Razor.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Antlr3.Runtime.pdb
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Newtonsoft.Json.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.ApplicationInsights.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.DependencyCollector.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.WindowsServer.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Web.xml
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.csproj.CoreCompileInputs.cache
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.dll
+D:\TIC\Projetos Curso Hugo Vasconcelos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.pdb
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\ApplicationInsights.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.exe
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.exe.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csc.rsp
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.exe
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.exe.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\csi.rsp
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.AppContext.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Collections.Immutable.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Console.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.Process.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.Compression.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.IO.Pipes.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Reflection.Metadata.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.AccessControl.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Claims.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Threading.Thread.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.ValueTuple.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XPath.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.exe
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.exe.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\vbc.rsp
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.dll.config
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\SistemaControle.pdb
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Antlr3.Runtime.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.DependencyCollector.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Web.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.WindowsServer.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.ApplicationInsights.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Web.Infrastructure.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Newtonsoft.Json.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Owin.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Helpers.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Mvc.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Optimization.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Razor.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\WebGrease.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Helpers.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Mvc.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Optimization.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Razor.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Antlr3.Runtime.pdb
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Newtonsoft.Json.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.ApplicationInsights.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.DependencyCollector.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.WindowsServer.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\bin\Microsoft.AI.Web.xml
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.csproj.CoreCompileInputs.cache
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.dll
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.pdb
+D:\TIC\Q-Cursos Projetos\Asp Net\SistemaControle\SistemaControle\obj\Release\SistemaControle.csprojResolveAssemblyReference.cache
